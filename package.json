@@ -1,0 +1,22 @@
+{
+  "name": "sample-node-project",
+  "version": "1.0.0",
+  "description": "Simple node project!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karthickthankyou/a-sample-node-project.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Karthick Ragavendran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karthickthankyou/a-sample-node-project/issues"
+  },
+  "homepage": "https://github.com/karthickthankyou/a-sample-node-project#readme"
+}
