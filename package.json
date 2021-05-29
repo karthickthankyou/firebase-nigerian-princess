@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": {
+    "sample-node": "index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/karthickthankyou/a-sample-node-project.git"
